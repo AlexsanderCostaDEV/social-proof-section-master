@@ -64,7 +64,7 @@ body, html {
 }
 
 .main-top .main-top-left p {
-    color: var(--very-dark-magenta);
+    color: var(--dark-grayish-magenta);
     margin-top: 1.7rem;
     font-size: 18px;
     width: 75%;
